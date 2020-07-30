@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif)
+<p align="center">
+  <img width="100%" height="600" src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif">
+</p>
 
 <!--
 **nekoding/nekoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
