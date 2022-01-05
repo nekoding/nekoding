@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<p align="center">
+@OSSDAO-ORG•AIRDROP-0x5B920E646899a407856Da0dC271d44142e82a465
+<!-- <p align="center">
   <img width="100%" src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif">
-</p>
+</p> -->
 
 <!--
 **nekoding/nekoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
