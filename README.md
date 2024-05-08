@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-<p align="center">
-  <img width="100%" src="https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif">
-</p>
+**A Full-Stack Developer by day**
+
+🔭 Full-Stack Developer at [Lintas Media Danawa](https://www.lintasmediadanawa.com/)  
+⚙️ I use daily: `.php, .js, .ts, .html, .css, .jsx, .vue`  
+🌱 Currently learning `.go, .java`  
+📫 How to reach me: [Discord](https://discordapp.com/users/984448732999327766)  [Facebook](https://fb.me/tyvandi)  
+
+### 🚀 Quick Stats  
+
+![Nekoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekoding&show_icons=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **nekoding/nekoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
