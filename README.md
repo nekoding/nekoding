@@ -12,6 +12,15 @@
 ![Nekoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=nekoding&show_icons=true)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript       17 hrs 51 mins  ███████████▒░░░░░░░░░░░░░   44.90 %
+PHP              13 hrs 38 mins  ████████▓░░░░░░░░░░░░░░░░   34.30 %
+Go               2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Blade Template   1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+MDX              1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
