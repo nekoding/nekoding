@@ -14,20 +14,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2021 - To: 02 August 2024
+From: 25 July 2021 - To: 03 August 2024
 
-Total Time: 1,850 hrs 7 mins
+Total Time: 1,855 hrs 16 mins
 
-PHP                        718 hrs 6 mins  █████████▓░░░░░░░░░░░░░░░   38.21 %
-TypeScript                 485 hrs 27 mins ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
-Blade Template             302 hrs 41 mins ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-Vue.js                     96 hrs 4 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Bash                       44 hrs 16 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+PHP                        718 hrs 6 mins  █████████▓░░░░░░░░░░░░░░░   38.11 %
+TypeScript                 490 hrs 15 mins ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
+Blade Template             302 hrs 41 mins ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Vue.js                     96 hrs 4 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Bash                       44 hrs 16 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 Go                         35 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Other                      29 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-JavaScript                 28 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Other                      29 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+JavaScript                 28 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 YAML                       17 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Markdown                   17 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Markdown                   17 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
