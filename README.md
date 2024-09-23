@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2021 - To: 21 September 2024
+From: 25 July 2021 - To: 22 September 2024
 
-Total Time: 2,105 hrs 6 mins
+Total Time: 2,105 hrs 47 mins
 
-PHP                        861 hrs 31 mins ██████████░░░░░░░░░░░░░░░   39.88 %
-TypeScript                 558 hrs 49 mins ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-Blade Template             319 hrs 52 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+PHP                        861 hrs 31 mins ██████████░░░░░░░░░░░░░░░   39.86 %
+TypeScript                 559 hrs 28 mins ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+Blade Template             319 hrs 52 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
 Vue.js                     96 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 Other                      55 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 Bash                       49 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
