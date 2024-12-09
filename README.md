@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2021 - To: 06 December 2024
+From: 25 July 2021 - To: 08 December 2024
 
-Total Time: 2,401 hrs 59 mins
+Total Time: 2,402 hrs 6 mins
 
 PHP                        1,031 hrs 59 mins██████████▒░░░░░░░░░░░░░░   41.61 %
 TypeScript                 610 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░   24.63 %
