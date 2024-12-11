@@ -14,17 +14,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2021 - To: 09 December 2024
+From: 25 July 2021 - To: 10 December 2024
 
-Total Time: 2,407 hrs 8 mins
+Total Time: 2,413 hrs 20 mins
 
-PHP                        1,037 hrs       ██████████▒░░░░░░░░░░░░░░   41.72 %
-TypeScript                 610 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░   24.58 %
-Blade Template             353 hrs 50 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
-Vue.js                     96 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Other                      78 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Bash                       57 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Go                         38 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+PHP                        1,042 hrs 38 mins██████████▒░░░░░░░░░░░░░░   41.85 %
+TypeScript                 610 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░   24.52 %
+Blade Template             354 hrs 20 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Vue.js                     96 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Other                      78 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Bash                       57 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Go                         38 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 JavaScript                 34 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 Markdown                   17 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
