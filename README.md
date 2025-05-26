@@ -3,7 +3,7 @@
 **A Full-Stack Developer by day**
 
 🔭 Full-Stack Developer at [Lintas Media Danawa](https://www.lintasmediadanawa.com/)  
-⚙️ I use daily: `.php, .js, .ts, .html, .css, .jsx, .vue`  
+⚙️ I use daily: `.php, .js, .ts, .html, .css, .jsx, .py`  
 🌱 Currently learning `.go, .java`  
 📫 How to reach me: [Discord](https://discordapp.com/users/984448732999327766)  [Facebook](https://fb.me/tyvandi)  
 
